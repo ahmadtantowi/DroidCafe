@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\ab6b2d2e628dcfeec9f0071a14ddc0b2f14e12db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_7f5dc5fc8a4f40640ce2a06bad533a0100824da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\AppData\Local\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_6723181c95d6a718e2b3d09f6f6753163314e583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\7db75c0e122ea03fde34860338381a466d0bda61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_00baba7b3c873c41c3f7c463ec905e37426175eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\86100a5440805c56c74b04ca1e899d522250b613\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_43f135375062929941c5db16c6535f64a97e1970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\74dec2f30f275ec843a189a586fb00d8b6ac5b8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_edf500364cc034eb14dadf20460197d9e9175f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\7575c49a2cef1de607ec915cfab6037902ff762a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_e23c8b193d0602cf8844a8969bcb81579bfc6a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\61eb490b40d111b17f094a9b4ecb15f64bbec580\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e354c2ba0ed4c345f1fccbf879bf8e024a96f2bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\b914a9cb996e5f831e4903261691dfd262a272e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_752eaf702c40705042de46dd68fa70717e1ec3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\b914a9cb996e5f831e4903261691dfd262a272e1\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_baaf4e345392c241e69d846884782546ca5b262d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\d4493060e537a7ee6b8cab6c3e6a2871279fc21c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_bc1053a040997da36a6e3d96d09088d3817144b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\d4493060e537a7ee6b8cab6c3e6a2871279fc21c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2707734a08df52ab476f4c223c79d30d0345050a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\5c5ccb4208c21e585c0c744e6b4196387f34a5c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_9b2b7618a47a1b1a545f069b35315e85417214f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\52016aa4253ee89876f13e7f7e53df0769aff371\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_baf02e8e01e4589e16d56af6e955de082ff8d427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\592db4656db5e96a66f1244ffba28bbf5a567a5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_c90067b01822cbbdf14a9857dd3872d42c7aed8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\7db75c0e122ea03fde34860338381a466d0bda61\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_625f6ee6220df05986d94b017ef497f8489a6fc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\fbf9b80156dc2e185c4baa20e4eabeaee50e7d27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_a18eead3a1a4338664062c2965d7bd1deb4dfb42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\61eb490b40d111b17f094a9b4ecb15f64bbec580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\classes_9b18d13917934a74fa3ba813dee868faf86491e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad\.android\build-cache\74dec2f30f275ec843a189a586fb00d8b6ac5b8a\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Kuliah\Semester 7\Mobile Programming\android-fundamentals-master\DroidCafe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8c3963ef445c230e06b5e65ba98ab6995daa0151.jar" />
+    </item>
+
+</items>
